@@ -1,0 +1,343 @@
+scouter_initials	match_number	robot	team_number	human_player_at_amp	no_show	auto_amp_scored	auto_amp_missed	auto_speaker_scored	auto_speaker_missed	can_do_ground_pickup	tele_amp_scored	tele_amp_missed	tele_speaker_scored	tele_speaker_missed	note_in_trap	died	tipped_over	comments		
+BB	2	R2	2013	TRUE	FALSE	0	0	1	0	false	0	0	8	0	0	FALSE	FALSE	FALSE	undefined 
+MDP	2	B1	578	FALSE	FALSE	0	0	1	0	true	0	0	0	0	0	FALSE	FALSE	FALSE	undefined
+Mm	2	R3	2013	TRUE	FALSE	0	0	1	0	0	0	0	7	0	0	TRUE	FALSE	FALSE	undefined
+AK	2	R1	4991	TRUE	FALSE	0	0	0	0	true	2	0	0	0	0	FALSE	FALSE	FALSE	no cclimb
+AP	2	B3	144	FALSE	FALSE	0	0	0	0	0	0	0	0	0	0	FALSE	FALSE	FALSE	undefined
+MDP	4	B1	117	TRUE	FALSE	0	0	0	0	true	2	0	1	0	0	FALSE	FALSE	FALSE	undefined
+MC	4	B2	3260	FALSE	FALSE	0	0	1	0	0	0	0	5	0	0	TRUE	FALSE	FALSE	undefined
+Hz	5	R3	5413	TRUE	FALSE	0	1	0	0	0	0	0	3	4	0	FALSE	FALSE	FALSE	undefined
+AK	6	R1	3492	TRUE	FALSE	0	0	0	0	true	1	2	0	0	0	FALSE	FALSE	FALSE	"No climb, note attempt"
+Hz	6	R3	9415	FALSE	FALSE	0	1	0	0	0	0	0	3	4	0	FALSE	FALSE	FALSE	I dont think my robot did  Anything
+KNL	6	B1	677	TRUE	FALSE	1	0	0	0	true	0	0	0	2	0	FALSE	FALSE	FALSE	undefined
+MC	6	B2	1559	TRUE	FALSE	0	0	0	0	0	0	0	0	3	0	FALSE	FALSE	FALSE	undefined
+KNL	8	B1	6834	TRUE	FALSE	0	0	0	0	0	0	0	2	1	0	TRUE	FALSE	FALSE	Can climb
+Mm	8	B3	3504	FALSE	FALSE	0	0	1	0	true	2	0	0	3	0	FALSE	FALSE	FALSE	Defense
+MC	8	B2	9004	TRUE	FALSE	0	0	0	1	0	0	0	0	0	0	FALSE	FALSE	FALSE	undefined
+BB	8	R2	7274	FALSE	FALSE	0	0	0	0	0	0	0	0	2	0	FALSE	FALSE	FALSE	undefined
+Hz	8	R3	4027	FALSE	FALSE	0	0	0	0	0	3	1	1	0	0	FALSE	FALSE	FALSE	undefined
+AK	8	R1	1708	TRUE	FALSE	0	0	1	0	true	0	0	5	1	0	FALSE	FALSE	FALSE	No climb
+BB	9	R2	578	FALSE	FALSE	0	0	0	0	0	0	0	0	0	0	FALSE	FALSE	FALSE	undefined
+MC	9	B2	5413	TRUE	FALSE	0	0	0	0	0	0	0	2	1	0	FALSE	FALSE	FALSE	undefined
+Am	9	R3	340	FALSE	FALSE	0	0	0	1	FALSE	0	0	4	1	0	TRUE	FALSE	FALSE	undefined
+AK	9	R1	117	TRUE	FALSE	0	0	0	0	TRUE	3	0	0	0	0	FALSE	FALSE	FALSE	"Pattern, kinda climbs "
+KNL	9	B1	2399	TRUE	FALSE	0	0	1	0	TRUE	3	0	1	0	0	FALSE	FALSE	FALSE	Climbs but didn't make it
+Mm	8	B3	3260	FALSE	FALSE	0	0	1	0	0	0	0	2	2	0	TRUE	FALSE	FALSE	undefined
+ST	10	B3	8393	FALSE	FALSE	0	0	1	0	TRUE	1	0	2	2	0	FALSE	FALSE	FALSE	"Couldn't see autonomous, climbed"
+Am	10	R3	1559	FALSE	FALSE	0	0	0	1	FALSE	0	0	1	1	0	FALSE	FALSE	FALSE	Jsyk I missed like half the match
+BB	10	R2	2053	FALSE	FALSE	0	0	1	0	0	3	0	0	0	0	FALSE	FALSE	FALSE	undefined
+MC	10	B2	3484	TRUE	FALSE	0	0	0	1	TRUE	0	0	2	3	0	FALSE	FALSE	FALSE	undefined
+KNL	10	B1	8393	TRUE	FALSE	0	0	0	0	0	1	0	0	0	0	FALSE	FALSE	FALSE	Something wrong with shooter	
+AK	10	R1	2656	TRUE	FALSE	0	0	1	0	TRUE	0	0	3	1	0	TRUE	FALSE	FALSE	Climbs but didn't make it
+Sz	11	R1	2013	FALSE	FALSE	0	0	0	0	TRUE	0	0	3	1	0	TRUE	FALSE	FALSE	undefined
+NS	11	B1	1787	TRUE	FALSE	0	0	3	0	TRUE	4	0	2	0	0	FALSE	FALSE	FALSE	undefined
+AM	11	R3	2252	FALSE	FALSE	0	0	1	1	0	0	0	5	1	0	FALSE	FALSE	FALSE	undefined
+KNL	11	B1	1787	TRUE	FALSE	0	0	4	0	TRUE	4	0	2	0	0	FALSE	FALSE	FALSE	Hangs
+MM	11	B3	5740	FALSE	FALSE	0	0	0	0	TRUE	0	0	1	4	0	FALSE	TRUE	FALSE	undefined
+MDP	11	B2	144	TRUE	FALSE	0	0	0	0	TRUE	0	0	5	2	0	FALSE	FALSE	FALSE	undefined
+Sz	12	R1	7274	FALSE	FALSE	0	0	0	0	0	0	0	0	1	0	TRUE	FALSE	FALSE	Barely moved the whole time
+Sz	12	R1	7274	FALSE	FALSE	0	0	0	0	0	0	0	0	1	0	TRUE	FALSE	FALSE	Barely moved the whole time
+AMM	12	B2	3504	FALSE	FALSE	0	0	0	0	0	0	0	0	0	0	FALSE	TRUE	FALSE	undefined
+AM	12	R3	2638	FALSE	FALSE	0	0	1	0	0	0	0	2	0	0	FALSE	FALSE	FALSE	undefined
+NS	12	B1	4991	TRUE	FALSE	1	0	0	0	TRUE	2	0	0	0	0	FALSE	FALSE	FALSE	undefined
+Sz	13	R1	3492	false	false	0	0	1	0	true	0	0	3	0	0	true	false	false	undefined
+NS	13	B1	9415	false	false	0	0	0	0	0	0	1	2	1	0	false	false	false	undefined
+Mm	13	B3	2641	true	false	0	0	0	1	0	0	0	3	1	0	true	false	false	Hung w elegance and grace
+AMM	13	B2	2228	false	false	0	0	2	1	true	3	0	1	0	0	false	false	false	Good climb
+AM	13	R3	4027	false	false	0	0	1	1	true	3	0	1	0	0	false	false	false	undefined
+Mm	14	B3	2172	false	false	0	0	0	0	true	0	0	3	0	0	true	false	false	undefined
+Sz	14	R1	9475	false	false	0	0	0	0	0	0	0	3	1	0	true	false	false	undefined
+NS	14	B1	4611	false	false	0	0	3	0	true	4	1	3	0	0	false	false	false	undefined
+AMM	14	B2	6834	false	false	0	0	0	0	0	0	0	4	3	0	false	false	false	Speedy climb
+AM	14	R3	2399	false	false	0	0	0	0	true	3	1	0	0	0	false	false	false	undefined
+Sz	15	R1	8096	false	false	0	0	2	0	true	1	0	0	0	0	false	true	false	undefined
+NS	15	B1	9004	false	false	0	0	0	0	0	0	0	0	0	0	false	false	false	undefined
+AM	15	R3	325	false	false	0	0	1	0	0	0	0	7	2	0	false	false	false	undefined
+Mm	15	B3	695	false	false	0	0	0	2	true	4	0	3	0	0	true	false	false	Ate
+AMM	15	B2	1708	false	false	0	0	1	1	0	1	0	5	3	0	false	false	false	Can climb
+Sz	16	R1	3954	false	false	0	0	0	0	true	0	0	3	2	0	true	false	false	undefined
+AM	16	R3	7515	false	false	0	0	0	0	0	0	0	4	0	0	false	false	false	undefined
+AMM	16	B2	3201	false	false	0	0	3	0	0	2	1	0	0	0	false	false	false	undefined
+MT	17	B3	578	false	false	0	0	0	0	0	0	2	0	0	0	false	false	false	undefined
+Sz	17	R1	4121	false	false	0	0	1	0	true	0	0	2	1	0	true	false	false	undefined
+AMM	17	B2	4250	false	false	0	0	2	0	0	1	0	6	1	0	false	false	false	undefined
+AM	17	R3	8393	false	false	0	0	0	0	true	3	0	0	0	0	false	false	false	undefined
+AMM	18	B2	2641	false	false	0	0	1	0	0	0	0	4	1	0	false	false	false	undefined
+Sz	18	R1	2013	false	false	0	0	0	0	true	0	0	5	0	0	true	false	false	undefined
+NS	18	B3	3504	false	false	0	0	0	1	true	4	0	0	0	0	false	false	false	undefined
+AM	18	R3	117	false	false	0	0	0	0	0	0	0	0	0	0	false	false	false	undefined
+MDP	20	B1	4145	true	false	0	0	0	0	true	0	0	6	2	0	true	false	false	They hanged!
+MDP	21	B1	2638	true	false	0	0	0	0	true	1	1	1	4	0	false	false	false	undefined
+AMM	21	R1	4027	false	false	0	0	2	0	0	0	0	3	1	0	false	false	false	
+MDP	21	B1	2172	true	false	0	0	0	0	true	2	1	0	2	0	false	false	false	undefined
+ST	22	B2	3201	false	false	0	0	2	0	true	2	0	1	1	0	false	false	false	Failed climb
+KL	22	R2	4991	false	false	0	0	0	0	true	3	0	0	0	0	false	false	false	Hanger
+AMM	22	R1	2614	false	false	0	0	0	0	0	2	0	3	1	1	true	false	false	undefined
+AK	22	R3	5740	true	false	0	0	0	0	0	0	0	0	0	0	false	true	false	undefined
+AP	23	R1	2228	false	false	0	0	1	2	true	0	1	2	0	1	false	false	false	undefined
+MDP	23	B1	7515	true	false	0	0	0	0	true	2	2	0	3	0	false	false	false	
+AK	23	R3	695	true	false	0	0	0	0	true	2	0	2	0	0	false	false	false	Climb
+ST	23	B2	3260	false	false	0	0	1	0	true	1	2	2	0	0	false	false	false	Climbed
+KL	23	R2	144	false	false	0	0	4	0	true	0	0	5	1	0	false	false	false	undefined
+AMM	23	R1	4150	false	false	0	0	0	0	0	5	0	0	0	0	false	false	false	Very strong amp
+MDP	23	B1	3954	true	false	0	0	1	0	true	0	0	2	0	0	false	false	false	undefined
+ST	24	B2	8096	false	false	0	0	0	0	0	0	0	1	0	0	false	false	false	Mainly defense 
+AK	24	R3	379	true	false	0	0	1	0	0	3	0	0	0	1	false	false	false	Stable Climb
+ST	24	B2	8096	false	false	0	0	0	0	0	0	0	1	0	0	false	false	false	Mainly defense 
+KL	24	R2	9022	false	false	0	0	0	0	0	0	0	0	0	0	false	false	false	Hanger
+AP	24	B3	1708	true	false	0	0	2	1	true	5	0	1	1	0	false	false	false	undefined
+KL	25	R2	4050	false	false	0	0	0	0	0	0	0	0	0	0	false	false	false	Defense and hanger
+ST	25	B2	7274	false	false	0	0	0	0	false	0	0	3	0	0	true	false	false	undefined
+AMM	25	R1	340	false	false	0	0	1	0	0	0	0	8	2	0	false	false	false	Scores away from subwoofer
+AK	25	R3	9139	true	false	0	0	0	0	true	3	0	0	0	0	false	false	false	Defense
+AP	25	B3	3484	false	false	0	0	1	0	true	0	0	2	2	0	false	false	false	undefined
+MSS	26	B1	5413	true	false	0	0	0	0	true	0	0	2	0	0	false	false	false	undefined
+AK	26	R3	8705	true	false	0	0	0	0	true	0	0	1	2	0	false	false	false	Climb is early but successful 
+ST	26	B2	9004	false	false	0	0	0	0	0	0	0	0	0	0	false	false	false	penalty. Multiple in possession 
+KL	26	R2	4991	false	false	0	0	0	0	0	3	0	0	0	0	false	false	false	Hang
+AP	26	B3	3492	true	false	0	0	2	0	true	4	0	0	0	0	false	false	false	injured in battle :(
+AMM	26	R1	4121	false	false	0	0	0	0	true	0	0	3	0	0	false	false	false	undefined
+AMM	27	R1	325	false	false	0	0	3	0	0	0	0	7	1	0	false	false	false	undefined
+ST	27	B2	9415	false	false	0	0	0	0	0	0	0	1	0	0	false	false	false	Didn't do much
+AP	27	B3	144	true	false	0	0	3	0	true	2	1	2	1	0	false	false	false	undefined
+KL	27	R2	8393	true	false	0	0	0	0	0	3	0	0	0	0	false	false	false	undefined
+AK	27	R3	6834	true	false	0	0	0	0	true	0	0	3	0	0	false	false	false	undefined
+AG	28	B1	1126	false	false	0	0	0	0	true	2	0	0	1	0	false	false	false	undefined
+ST	28	B2	4027	false	false	0	0	1	0	true	2	0	2	0	0	true	false	false	Failed climb
+AK	28	R3	3260	true	false	0	0	0	0	true	2	0	0	0	0	false	false	false	Climb unsuccessful 
+AMM	28	R1	8096	false	false	0	0	0	0	0	1	0	0	0	0	false	false	false	undefined
+AP	28	B3	2013	false	false	0	0	1	0	true	0	0	5	0	0	false	false	false	undefined
+KL	28	R2	4150	true	false	0	0	2	0	0	3	0	3	0	0	false	false	false	Hanger
+vb ST	29	B2	117	false	false	0	0	1	0	true	0	0	1	0	0	true	false	false	Climb
+KL	29	R2	1787	true	false	0	0	2	0	true	1	1	3	1	0	false	false	false	Hang
+AMM	29	R1	379	false	false	0	0	0	0	0	3	0	1	0	0	false	false	false	undefined
+AG	29	B1	2228	false	false	0	0	3	0	0	2	0	1	0	1	true	false	false	undefined
+AP	29	B3	7274	false	false	0	0	0	0	0	0	0	2	0	0	true	false	false	undefined
+AK	29	R3	3201	true	false	0	0	3	0	true	0	0	7	0	0	true	false	false	Climb success
+AP	30	B3	4145	false	false	0	0	2	0	true	0	0	1	3	0	true	false	false	undefined
+AG	30	B1	4611	false	false	0	0	3	0	true	5	0	4	0	0	false	false	false	undefined
+ST	30	B2	2638	false	false	0	0	1	0	true	0	0	1	0	0	true	false	false	very rigid and slow
+AMM	30	R1	695	false	false	0	0	1	0	0	0	1	0	0	0	false	false	false	Got a note stuck in the beginning, played defense 
+AK	30	R3	2656	true	false	0	0	2	0	true	0	0	6	0	0	false	false	false	Climb
+KL	30	R2	3484	true	false	0	0	1	0	true	1	0	4	1	0	false	false	false	Hang
+MDP	31	B1	3954	true	false	0	0	0	0	true	1	0	3	1	0	false	false	false	undefined
+AMM	31	R1	9475	false	false	0	0	0	0	0	0	2	1	0	0	false	false	false	undefined
+AP	31	B3	340	true	false	0	0	2	1	true	1	0	6	2	0	false	false	false	undefined
+AK	31	R3	9139	true	false	0	0	0	0	false	3	0	0	0	0	false	false	false	undefined
+ST	31	B2	9022	false	false	0	0	1	0	0	0	0	0	0	0	false	false	false	undefined
+KL	31	R2	2614	true	false	0	0	3	0	true	1	0	4	1	1	false	false	false	Hang
+MDP	32	B1	578	true	false	0	0	0	0	0	1	1	1	0	0	false	false	false	undefined
+KL	32	R2	1708	true	false	0	0	0	1	true	3	0	2	0	0	false	false	false	Hang
+AMM	32	R1	2252	false	false	0	0	1	2	0	2	0	4	2	0	false	false	false	Rlly good shooter
+AK	32	R3	1559	true	false	0	0	0	0	true	0	0	0	0	0	false	false	false	Climb
+ST	32	B2	4050	false	false	0	0	0	0	0	0	0	0	0	0	false	false	false	driver doesn't know how to drive
+AP	32	B3	2399	false	false	0	0	1	0	true	1	1	1	0	0	true	false	false	undefined
+ST	33	B2	3015	false	false	0	0	3	0	0	0	0	3	0	1	false	false	false	Smooth asf, hung
+AMM	33	R1	2172	false	false	0	0	0	0	0	0	0	1	0	0	false	false	false	undefined
+KL	33	R2	2641	true	false	0	0	0	0	false	0	0	3	1	0	false	false	false	undefined
+MDP	33	B1	3504	false	false	0	0	1	0	true	0	0	5	0	0	false	false	false	undefined
+Sz	34	R1	2228	false	false	0	0	1	1	0	2	0	3	0	0	true	false	false	undefined
+ST	34	B2	4121	false	false	0	0	1	0	true	0	0	5	0	0	true	false	false	Hung!
+AK	34	R3	6834	true	false	0	0	0	0	0	0	0	5	0	0	false	false	false	undefined
+AP	34	B3	117	false	false	0	0	1	0	true	1	0	1	0	0	true	false	false	slow and confused
+SL	34	B1	3181	true	false	0	1	2	0	true	2	1	2	0	0	true	false	false	Goofy intake
+Hy	35	R3	2013	false	false	0	0	1	0	0	0	0	7	1	0	true	false	false	undefined
+Sz	35	R1	3260	false	false	0	0	0	1	true	1	1	0	0	0	false	false	false	undefined
+AP	35	B3	9475	false	false	0	0	0	0	0	0	0	1	3	0	true	false	false	undefined
+RK	35	B2	4611	true	false	0	0	2	0	true	0	0	10	1	0	false	false	false	Very fast
+Sz	36	R1	7274	false	false	0	0	0	0	0	0	0	2	0	0	true	false	false	undefined
+Hy	36	R3	3201	false	false	0	0	4	1	true	1	0	7	1	0	true	false	false	undefined
+RK	36	B2	3484	true	false	0	0	2	0	true	0	0	0	4	0	true	false	false	undefined
+Sz 	38	R1	3504	false	false	0	0	0	1	true	5	0	0	1	0	false	false	false	undefined
+AM	39	B3	4150	false	false	0	0	0	0	true	0	0	4	0	0	false	false	false	undefined
+Sz 	39	R1	144	false	false	0	0	2	0	true	0	0	7	2	0	true	false	false	undefined
+RK	39	B2	2399	true	false	0	0	0	0	true	0	0	4	0	0	true	false	false	undefined
+K	39	R2	3181	true	false	0	0	1	0	0	3	1	0	0	0	false	false	false	undefined
+Sz 	40	R1	2641	false	false	0	0	1	0	0	0	0	5	0	0	true	false	false	undefined
+CJ	40	R2	8096	true	false	0	0	1	0	0	3	0	0	0	0	false	false	false	undefined
+Hy	40	R3	8393	false	false	0	0	1	0	0	1	0	0	0	0	false	false	false	undefined
+AM	40	B3	5740	false	false	0	0	0	0	true	0	0	4	0	0	false	false	false	undefined
+RK	40	B2	8705	false	false	0	0	0	0	0	0	0	0	2	0	true	false	false	undefined
+Mc	40	B1	4050	false	false	0	0	0	0	0	0	4	0	0	0	true	false	false	The shooter doesn't really work. The elevator syst
+AM	41	B3	325	false	false	0	0	0	0	false	0	0	3	0	0	false	false	false	undefined
+Hy	41	R3	4991	false	false	1	0	0	0	0	4	1	0	0	0	false	false	false	Super tall dude blocking view. Sorry.
+RK	41	B2	4027	false	false	0	0	1	0	true	1	0	2	0	0	false	false	false	undefined
+Sz 	41	R1	578	false	false	0	0	0	0	0	0	0	0	0	0	false	false	false	Played defense ig don't think shooter was working
+CJ	41	R2	7515	false	false	0	0	1	0	0	0	0	2	0	0	false	true	false	undefined
+Hy	42	R3	117	false	false	0	0	0	0	0	1	0	2	0	0	false	false	false	Missed auto. Sorry. 
+AM	42	B3	4611	false	false	0	0	0	0	true	0	0	4	1	0	false	false	false	undefined
+RK	42	B2	340	false	false	0	0	0	0	true	2	0	6	1	0	true	false	false	Smooth intake
+CJ	42	R2	117	true	false	0	0	1	0	0	2	0	1	1	0	false	false	false	undefined
+Sz 	42	R1	3015	false	false	0	0	4	0	true	0	0	4	3	1	false	false	false	undefined
+Hy	43	R3	2656	false	false	0	0	2	0	true	0	0	6	0	0	false	false	false	undefined
+CJ	43	R2	2656	true	false	0	0	2	0	0	0	0	4	0	0	false	false	false	undefined
+RK	43	B2	9415	false	false	0	0	0	0	0	0	0	1	0	0	true	false	false	undefined
+AM	43	B3	4150	false	false	0	0	0	0	true	0	0	5	0	0	false	false	false	undefined
+Sz 	43	R1	2638	false	false	0	0	0	0	0	0	0	3	3	0	true	false	false	undefined
+AP	43	B1	9139	false	false	0	2	0	0	true	3	0	0	0	0	false	false	false	only amp scoring
+AP	44	B1	3504	false	false	0	0	1	0	true	6	0	0	2	0	true	false	false	undefined
+CJ	44	R2	3954	false	false	0	0	1	0	0	0	0	3	0	0	false	false	false	undefined
+RK	44	B2	8393	false	false	0	0	0	0	0	1	0	2	1	0	true	false	false	undefined
+Hy	45	R3	9022	false	false	0	0	1	0	true	0	0	3	1	0	true	false	false	undefined
+AP	45	B1	4027	false	false	0	0	1	1	true	2	0	2	0	0	false	false	false	undefined
+AM	45	B3	2172	false	false	0	0	0	0	true	3	0	2	0	0	false	false	false	undefined
+Sz 	45	R1	3484	false	false	0	0	0	0	0	0	0	0	3	0	true	false	false	undefined
+CJ	45	R2	9022	true	false	0	0	1	0	0	0	0	2	0	0	false	false	false	undefined
+RK	45	B2	695	false	false	0	0	0	1	true	0	0	7	0	0	true	false	false	undefined
+BB	46	B3	7274	false	false	0	0	0	0	false	0	0	3	1	0	false	false	false	undefined
+Sz 	46	R1	5740	false	false	0	0	1	0	true	0	0	5	1	0	true	false	false	undefined
+AP	46	B1	2614	false	false	0	0	3	0	0	3	0	3	2	1	true	false	false	undefined
+CJ	46	R2	1126	true	false	0	0	1	0	0	4	0	2	0	0	false	false	false	undefined
+NS	46	R3	7515	false	false	0	0	0	0	0	0	0	2	2	0	false	false	false	undefined
+AP	46	B1	2614	false	false	0	0	3	0	0	3	0	3	2	1	true	false	false	undefined
+Sz 	47	R1	677	false	false	0	0	0	0	0	1	0	3	0	0	true	false	false	undefined
+BB	47	B3	9004	false	false	0	0	0	0	0	0	0	0	1	0	false	false	false	undefined
+NS	47	R3	677	false	false	0	0	1	0	0	0	0	3	0	0	false	false	false	undefined
+AP	47	B1	8096	false	false	0	0	0	0	true	0	0	0	1	0	false	false	false	undefined
+CJ	47	R2	578	true	false	0	0	1	0	0	0	0	4	0	0	false	false	false	undefined
+AP	47	B1	9475	false	false	0	0	0	0	0	0	0	1	0	0	false	true	false	undefined
+BB	48	B3	3260	false	false	0	0	0	0	0	3	2	0	0	0	false	false	false	undefined
+NS	48	R3	2641	false	false	0	0	0	0	0	0	0	1	0	0	false	true	false	undefined
+MDP	48	B2	2252	true	false	0	0	0	1	true	3	1	2	1	0	false	false	false	undefined
+Hz	48	R1	2641	false	false	0	0	0	0	0	0	0	0	0	0	true	false	false	undefined
+SL	48	R2	3181	false	false	0	0	3	0	true	0	0	6	1	0	true	false	false	Good robo
+Hz	49	R1	4121	false	false	0	0	0	0	0	0	0	5	0	0	false	false	false	undefined
+BB	49	B3	2013	false	false	0	0	0	1	0	0	0	2	0	0	false	false	false	undefined
+AP	49	B1	379	false	false	0	0	0	2	0	3	0	3	0	0	true	false	false	undefined
+NS	49	R3	4121	false	false	0	0	0	1	0	0	0	3	1	0	false	false	false	undefined
+AG	49	B2	340	false	false	0	0	0	0	true	0	0	4	2	0	true	false	false	undefined
+SL	49	R2	4145	false	false	0	0	2	1	true	0	1	1	2	0	false	false	false	undefined
+BB	50	B3	3015	false	false	0	0	5	0	0	0	0	1	1	0	false	false	false	undefined
+Hz	50	R1	4050	false	false	0	0	0	0	0	0	0	0	0	0	false	true	false	Ran into other robots
+BB	50	B3	3015	false	false	0	0	5	0	0	0	0	1	1	0	false	false	false	undefined
+AP	50	B2	4991	false	false	0	0	0	0	true	5	0	0	0	0	true	false	false	undefined
+AMM	50	B1	4991	false	false	0	0	0	0	0	5	0	0	0	0	false	false	false	undefined
+NS	50	R3	4050	false	false	0	0	0	0	0	1	0	0	0	0	false	true	false	undefined
+AMM	51	B1	9415	false	false	0	0	0	0	0	0	0	0	1	0	false	false	false	undefined
+NS	51	R3	4611	false	false	0	0	1	0	true	3	0	2	1	0	false	false	false	undefined
+Hz	51	R1	144	false	false	0	0	0	0	0	0	0	6	0	0	true	false	false	undefined
+RK	52	R1	4027	false	false	0	0	2	0	0	4	0	0	0	0	false	false	false	undefined
+NS	52	R3	677	false	false	0	0	0	1	true	0	0	2	0	0	false	false	false	undefined
+SL	52	B3	2252	false	false	0	1	1	0	true	0	0	4	1	0	false	false	false	undefined
+NS	53	R3	578	false	false	0	0	0	1	false	0	0	1	0	0	false	false	false	undefined
+Hy	53	B2	2053	false	false	0	0	1	0	true	0	0	2	1	0	false	false	false	undefined
+SL	53	B3	3954	false	false	0	0	1	0	true	0	0	4	2	0	true	false	false	undefined
+AMM	53	B1	695	false	false	0	0	1	0	false	0	0	0	0	0	false	false	false	Intake issues, switched to defense
+BB	54	B3	1708	false	false	0	0	0	0	0	6	0	2	0	0	false	false	false	undefined
+HZ	54	R1	4145	false	false	0	0	3	0	0	2	0	3	4	0	false	false	false	undefined
+MDP	54	B2	117	true	false	0	0	1	0	0	1	0	4	0	0	false	false	false	undefined
+KB	54	R2	3492	false	false	0	0	0	1	false	0	0	0	0	0	false	true	false	undefined
+AMM	54	R3	8393	false	false	0	0	0	0	0	0	0	0	0	0	false	false	false	undefined
+KH	54	B1	2638	true	false	1	0	0	0	true	4	1	0	1	0	false	false	false	undefined
+MDP	54	B2	9475	true	false	0	0	0	1	true	0	1	1	0	0	false	false	false	undefined
+HZ	55	R1	4050	false	false	0	0	0	0	0	0	0	0	0	0	true	false	false	undefined
+BB	55	B3	9004	false	false	0	0	0	0	0	0	0	3	0	0	false	false	false	undefined
+KH	55	B1	8705	true	false	0	0	0	1	false	0	0	1	1	0	false	false	false	undefined
+KB	55	R2	379	false	false	0	0	3	0	true	4	0	0	1	0	true	false	false	undefined
+AK	55	R3	4150	true	false	0	0	0	0	0	0	0	5	0	0	true	false	false	Climbs
+AK	56	R3	5413	true	false	0	0	0	0	0	0	0	0	0	0	false	true	false	undefined
+BB	56	B3	3181	false	false	0	0	1	0	0	0	0	3	3	0	false	false	false	undefined
+RK	56	R2	325	false	false	0	0	1	0	true	0	0	9	0	0	true	false	false	undefined
+MDP	55	B2	3015	true	false	0	0	6	0	true	3	0	1	0	0	false	false	false	Hang
+HZ	56	R1	3201	false	false	0	0	3	0	0	4	0	2	0	0	true	false	false	undefined
+KH	56	B1	2656	false	false	0	0	0	2	true	0	0	0	4	0	false	false	false	undefined
+MDP	57	B2	7515	true	false	0	0	0	1	0	0	0	3	0	0	false	false	false	undefined
+RK	57	R2	2228	false	false	0	0	2	0	true	0	0	6	0	0	true	false	false	undefined
+AP	57	B1	2399	false	false	0	0	0	3	true	4	0	2	0	0	true	false	false	undefined
+BB	57	B3	9022	false	false	0	0	0	0	0	0	0	0	0	0	false	false	false	Played defense 
+HZ	57	R1	2013	false	false	0	0	0	0	0	0	0	3	1	0	true	true	false	undefined
+AK	57	R3	3484	false	false	0	0	0	0	true	0	0	0	0	0	false	false	false	undefined
+AP	58	B1	340	false	false	0	0	0	3	true	0	0	5	4	0	false	false	false	undefined
+HZ	58	R1	2641	false	false	0	0	1	0	0	0	0	3	1	0	true	false	false	undefined
+MDP	58	B2	1126	true	false	0	0	2	0	true	3	0	2	0	0	false	false	false	undefined
+BB	58	B3	4991	false	false	0	0	0	0	0	0	0	0	0	0	false	false	false	undefined
+RK	58	R2	1787	false	false	0	0	1	0	true	5	0	1	0	0	false	false	false	A foul for contact, actively ppushing during foul
+AK	58	R3	6834	false	false	0	0	0	0	true	0	0	2	0	0	false	false	false	No climb
+HZ	59	R1	1559	false	false	0	0	0	0	0	0	0	4	2	0	false	false	false	undefined
+BB	59	B3	8096	false	false	0	0	2	0	0	0	0	2	0	0	false	false	false	undefined
+MDP	59	B2	7274	true	false	0	0	0	0	true	0	0	0	1	0	false	false	false	4 fouls
+RK	59	R2	9475	false	false	0	0	0	0	0	0	0	3	1	0	true	false	false	undefined
+AP	59	B1	9139	false	false	0	0	0	0	0	0	1	0	0	0	false	false	false	did nothing entire match
+HZ	59	R1	1559	false	false	0	0	0	0	0	0	0	4	2	0	false	false	false	undefined
+AK	59	R3	4145	false	false	0	0	0	0	0	2	0	1	0	0	false	false	false	undefined
+RK	60	R2	5740	false	false	0	0	0	0	true	1	0	6	0	0	true	false	false	undefined
+MDP	60	B2	3954	true	false	0	0	0	0	0	1	2	0	1	1	false	false	false	undefined
+HZ	60	R1	3260	false	false	0	0	0	0	0	4	1	1	0	0	true	false	false	undefined
+BB	60	B3	9415	false	false	0	0	2	0	0	0	0	2	0	0	false	false	false	Defense 
+AP	60	B1	4050	false	false	0	0	0	0	true	2	2	0	0	0	false	false	false	undefined
+AK	60	R3	695	false	false	0	0	2	0	0	0	0	6	1	0	true	false	false	Climbs
+MDP	61	B2	2614	true	false	0	0	4	0	true	2	1	4	0	0	false	false	false	Hanged
+HZ	61	R1	3181	false	false	0	0	2	0	0	1	0	2	0	0	true	false	false	undefined
+BB	61	B3	2013	false	false	0	0	0	0	0	0	0	5	0	0	false	false	false	undefined
+AK	61	R3	2638	false	false	0	0	0	0	0	2	0	0	0	0	false	false	false	undefined
+AP	61	B1	144	false	false	0	0	0	1	true	0	0	0	2	0	true	false	false	questionable ground intake 
+RK	61	R2	5413	false	false	0	0	0	0	0	0	0	0	0	0	false	false	false	Was very slow and then stayed podium for majority
+MDP	62	B2	2656	true	false	0	0	1	0	0	3	1	0	0	0	false	false	false	Hung
+HZ	62	R1	9004	false	false	0	0	0	0	0	0	0	1	1	0	true	false	false	undefined
+BB	62	B3	2228	false	false	0	0	1	0	true	2	0	2	2	1	false	false	false	undefined
+AK	62	R3	340	false	false	0	0	2	0	0	0	0	1	0	0	false	false	false	undefined
+RK	62	R2	2172	false	false	0	0	1	0	0	0	0	1	0	0	false	false	false	Note got stuck so it was holding 2 at once
+AP	62	B1	2252	false	false	0	0	4	1	true	2	0	4	0	0	false	false	false	undefined
+MDP	63	B2	6834	true	false	1	0	1	0	true	1	1	0	0	1	false	false	false	undefined
+RK	63	R2	3492	false	false	0	0	1	0	0	1	0	2	0	0	true	false	false	Wasn't able to shoot speaker mid match
+BB	63	B3	3201	false	false	0	0	2	0	0	7	0	2	0	0	false	false	false	undefined
+AP	63	B1	3015	false	false	0	0	6	0	true	0	0	5	2	1	false	false	false	undefined
+HZ	63	R1	9022	false	false	0	0	0	0	0	0	0	1	1	0	true	false	false	undefined
+RK	64	R2	4991	false	false	1	0	0	0	true	5	0	0	0	0	false	false	false	undefined
+MDP	64	B2	677	true	false	0	1	1	0	true	1	1	1	1	1	false	false	false	undefined
+HZ	64	R1	1708	false	false	0	0	2	0	0	0	0	7	0	0	false	false	false	undefined
+BB	64	B3	117	false	false	0	0	0	0	true	4	0	0	0	0	false	false	false	undefined
+AK	64	R3	9139	false	false	0	0	0	0	0	0	0	1	0	0	false	false	false	undefined
+AP	64	B1	7515	false	false	0	0	1	0	true	0	0	3	0	0	true	false	false	undefined
+BB	65	B3	1787	false	false	0	0	2	0	0	5	0	4	1	0	false	false	false	undefined
+AP	65	B1	3484	false	false	0	0	1	0	true	1	0	2	1	0	true	false	false	undefined
+HZ	64	R1	8705	false	false	0	0	0	0	0	0	0	0	0	0	true	false	false	undefined
+AK	65	R3	3504	false	false	0	0	2	0	0	1	0	5	0	0	false	false	false	undefined
+MC	66	R1	4121	false	false	0	0	0	0	0	0	0	4	4	0	true	false	false	undefined
+SZ	66	B1	8393	false	false	0	0	0	0	false	3	0	0	0	0	false	false	false	undefined
+ST	66	B3	1559	false	false	0	0	1	0	true	0	0	3	1	0	false	false	false	Parked
+AZ	66	B2	4207	false	false	0	0	1	0	true	0	1	3	0	0	false	false	false	Defense
+MC	67	R1	2399	false	false	0	0	2	1	true	3	1	3	0	0	false	false	false	undefined
+Mt	67	R3	7274	false	false	0	0	0	0	0	0	0	2	0	0	false	false	false	undefined
+SZ	67	B1	4150	false	false	0	0	0	0	true	2	0	3	1	0	true	false	false	undefined
+ST	67	B3	2656	false	false	0	0	0	1	true	0	0	3	1	0	true	false	false	Climbed
+AZ	67	B2	325	false	false	0	0	5	0	true	0	1	6	3	0	false	false	false	Defense
+AP	68	R2	2172	true	false	0	0	0	0	true	0	0	0	2	0	true	false	false	poor ground pickup
+MT	68	R3	3492	false	false	0	0	0	0	0	1	0	1	0	0	false	false	false	undefined
+SZ	68	B1	5413	false	false	0	0	1	0	true	0	0	4	0	0	true	false	false	undefined
+AZ	68	B2	4050	false	false	0	0	0	0	false	0	1	0	0	0	false	false	false	
+ST	68	B3	8096	false	false	0	0	0	0	true	1	0	0	0	1	false	false	false	Hung
+MC	68	R1	117	true	false	0	0	1	0	true	2	0	1	0	0	false	false	false	Had a lot of trouble lining up to the amp
+MC	69	R1	2053	true	false	0	0	0	2	0	0	0	3	4	0	false	false	false	undefined
+SZ	69	B1	9022	false	false	0	0	1	0	0	0	0	5	0	0	true	false	false	undefined
+MT	69	R3	1126	false	false	0	0	1	0	0	1	0	1	0	0	false	false	false	undefined
+AZ	69	B2	2252	false	false	0	0	2	1	false	0	1	8	0	0	false	false	false	
+AP	69	R2	9415	false	false	0	0	0	0	true	0	1	0	0	0	true	false	false	undefined
+ST	69	B3	4991	false	false	0	0	0	0	true	3	1	0	0	0	false	false	false	Climbed
+MC	70	R1	1787	true	false	0	0	2	0	0	5	0	2	0	0	false	false	false	undefined
+AP	70	R2	7515	false	false	0	0	1	0	true	0	0	4	0	0	true	false	false	undefined
+MT	70	R3	9004	false	false	0	0	0	0	0	0	0	1	0	0	false	false	false	Played defense for most of the match 
+AZ	70	B2	8393	false	false	0	0	1	0	false	0	0	0	0	0	false	false	false	Played defense entire teleop
+SZ	70	B1	4611	false	false	0	0	1	1	true	3	1	2	0	0	false	true	false	Crashed into wall and died, can shoot from faraway
+ST	70	B3	3181	false	false	0	0	2	0	0	0	2	2	0	0	false	false	false	undefined
+MT	71	R3	2614	false	false	1	0	0	0	0	1	0	3	0	1	false	false	false	undefined
+AP	71	R2	2228	false	false	0	0	2	0	true	1	1	3	1	1	true	false	false	undefined
+ST	71	B3	4145	false	false	0	0	1	0	true	1	0	0	0	0	false	true	false	undefined
+AZ	71	B2	1708	false	false	0	0	0	1	true	0	0	5	1	0	false	false	false	
+MC	71	R1	4150	true	false	0	0	0	0	0	0	0	5	1	0	false	false	false	undefined
+SZ	71	B1	6834	false	false	0	0	1	0	true	0	0	7	0	0	false	false	false	undefined
+AZ	72	B2	4121	false	false	0	0	1	0	true	0	0	8	2	0	false	false	false	
+NF	72	R3	3484	false	false	0	0	0	0	true	0	0	3	1	0	true	false	false	undefined
+AP	72	R2	3504	false	false	0	0	1	0	true	4	0	1	0	0	true	false	false	undefined
+AP	73	R2	9139	false	false	0	0	0	0	true	3	1	0	0	0	false	false	false	undefined
+AZ	73	B2	379	false	false	0	0	1	2	false	1	0	3	0	0	false	false	false	
+MC	73	R1	3015	true	false	0	0	7	0	0	0	1	4	0	1	false	false	false	undefined
+MDP	73	R3	2638	true	false	1	1	1	1	true	1	1	1	1	1	false	false	false	undefined
+ST	73	B3	578	false	false	0	0	0	0	true	0	0	0	0	0	false	true	false	Died for a while then came back, climbed
+SZ	73	B1	3260	false	false	0	0	0	0	true	3	0	0	2	0	true	false	false	undefined
+MT	74	R3	144	false	false	0	0	0	0	false	0	0	2	4	0	false	false	false	undefined
+AP	74	R2	1559	false	false	0	0	0	0	true	0	0	6	0	0	true	false	false	undefined
+ST	74	B3	4027	false	false	0	0	3	0	true	1	0	3	0	0	true	false	false	Parked
+AZ	74	B2	8705	false	false	0	0	0	0	false	0	0	1	1	0	false	false	false	
+SZ	74	B1	340	false	false	0	0	1	2	true	1	0	3	2	0	false	false	false	Scored from really far away
+MC	74	R1	3201	true	false	0	0	3	1	0	4	2	2	0	0	false	false	false	undefined

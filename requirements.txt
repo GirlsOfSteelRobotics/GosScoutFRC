@@ -1,0 +1,13 @@
+pandas
+shiny
+shinylive
+shinywidgets
+statbotics
+plotly
+requests
+notebook
+
+# Linting
+autoflake
+black
+black[jupyter]
