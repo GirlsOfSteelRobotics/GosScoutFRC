@@ -88,6 +88,20 @@ class DataContainer:
 
     def __amend_calculated_data(self, data_frame):
         # TODO - consider pre-calculating aggregated data, like "Total Notes"
+        data_frame["total notes"] = (
+            data_frame["tele_amp_scored"]
+            + data_frame["tele_speaker_scored"]
+            + data_frame["auto_amp_Scored"]
+            + data_frame["auto_speaker_scored"]
+        )
+
+        data_frame["scouted score"] = (
+            (data_frame["tele_speaker_scored"] - data_frame["tele_amp_scored"]) * 2
+            + data_frame["tele_amp_scored"] * 5
+            + data_frame["auto_amp_Scored"]
+            + data_frame["auto_speaker_scored"]
+        )
+
         return data_frame
 
 
